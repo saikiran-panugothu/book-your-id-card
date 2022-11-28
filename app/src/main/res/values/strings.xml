@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">book id card</string>
+    <string name="clg_description1">Approved by AICTE , New Delhi , Affliated to JNTUH , Hyderabad</string>
+    <string name="clg_description2">NBA Accredited and NAAC with A- Grade</string>
+    <string name="opendrawer">open Navigation drawer</string>
+    <string name="closedrawer">close Navigation drawer</string>
+</resources>

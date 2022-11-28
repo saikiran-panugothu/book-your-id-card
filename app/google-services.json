@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304411383861",
+    "project_id": "id-card-kotlin",
+    "storage_bucket": "id-card-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304411383861:android:c492e0c53663b1be73797c",
+        "android_client_info": {
+          "package_name": "com.example.bookidcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304411383861-rf6bcoq17kh9jrp76crshs5igljgvv44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookidcard",
+            "certificate_hash": "d6f2ba0cf1c3a3c0423d7c37a1a1f28f93529a5e"
+          }
+        },
+        {
+          "client_id": "304411383861-3714pmfec040i9qp02r8912a5rpaf287.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgAfS372cMG-D9rwOw0bOdj2EUolAcpxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304411383861-3714pmfec040i9qp02r8912a5rpaf287.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
